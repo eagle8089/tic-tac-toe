@@ -1,3 +1,8 @@
+/**
+ *
+ * Author: Nikhil K Das
+ * Email: nknikhilporuppath@gmail.com
+ **/
 #include<iostream.h>
 #include<conio.h>
 #include<stdio.h>
